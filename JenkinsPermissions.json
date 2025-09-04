@@ -1,13 +1,13 @@
 [
     {
-        "id": "hudson.model.Hudson.Administer",
+        "id": "hudson.model.Hudson.Administer"
         
     },
     {
-        "id": "hudson.security.Permission.FullControl",
+        "id": "hudson.security.Permission.FullControl"
        
     },
     {
-        "id": "hudson.security.Permission.GenericRead",
+        "id": "hudson.security.Permission.GenericRead"
     }
 ]
