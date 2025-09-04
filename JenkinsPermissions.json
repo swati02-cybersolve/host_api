@@ -1,4 +1,5 @@
-[    {
+[
+    {
         "id": "hudson.model.Hudson.Administer",
         "name": "Overall - Administer"
     },
@@ -9,5 +10,201 @@
     {
         "id": "hudson.security.Permission.GenericRead",
         "name": "N/A - GenericRead"
+    },
+    {
+        "id": "hudson.security.Permission.GenericWrite",
+        "name": "N/A - GenericWrite"
+    },
+    {
+        "id": "hudson.security.Permission.GenericCreate",
+        "name": "N/A - GenericCreate"
+    },
+    {
+        "id": "hudson.security.Permission.GenericUpdate",
+        "name": "N/A - GenericUpdate"
+    },
+    {
+        "id": "hudson.security.Permission.GenericDelete",
+        "name": "N/A - GenericDelete"
+    },
+    {
+        "id": "hudson.security.Permission.GenericConfigure",
+        "name": "N/A - GenericConfigure"
+    },
+    {
+        "id": "hudson.model.Hudson.Manage",
+        "name": "Overall - Manage"
+    },
+    {
+        "id": "hudson.model.Hudson.SystemRead",
+        "name": "Overall - SystemRead"
+    },
+    {
+        "id": "hudson.model.Hudson.Read",
+        "name": "Overall - Read"
+    },
+    {
+        "id": "hudson.model.Hudson.RunScripts",
+        "name": "Overall - RunScripts"
+    },
+    {
+        "id": "hudson.model.Hudson.UploadPlugins",
+        "name": "Overall - UploadPlugins"
+    },
+    {
+        "id": "hudson.model.Hudson.ConfigureUpdateCenter",
+        "name": "Overall - ConfigureUpdateCenter"
+    },
+    {
+        "id": "hudson.model.Computer.Configure",
+        "name": "Agent - Configure"
+    },
+    {
+        "id": "hudson.model.Computer.ExtendedRead",
+        "name": "Agent - ExtendedRead"
+    },
+    {
+        "id": "hudson.model.Computer.Delete",
+        "name": "Agent - Delete"
+    },
+    {
+        "id": "hudson.model.Computer.Create",
+        "name": "Agent - Create"
+    },
+    {
+        "id": "hudson.model.Computer.Disconnect",
+        "name": "Agent - Disconnect"
+    },
+    {
+        "id": "hudson.model.Computer.Connect",
+        "name": "Agent - Connect"
+    },
+    {
+        "id": "hudson.model.Computer.Build",
+        "name": "Agent - Build"
+    },
+    {
+        "id": "hudson.model.Computer.Provision",
+        "name": "Agent - Provision"
+    },
+    {
+        "id": "hudson.model.View.Create",
+        "name": "View - Create"
+    },
+    {
+        "id": "hudson.model.View.Delete",
+        "name": "View - Delete"
+    },
+    {
+        "id": "hudson.model.View.Configure",
+        "name": "View - Configure"
+    },
+    {
+        "id": "hudson.model.View.Read",
+        "name": "View - Read"
+    },
+    {
+        "id": "jenkins.metrics.api.Metrics.View",
+        "name": "Metrics - View"
+    },
+    {
+        "id": "jenkins.metrics.api.Metrics.ThreadDump",
+        "name": "Metrics - ThreadDump"
+    },
+    {
+        "id": "jenkins.metrics.api.Metrics.HealthCheck",
+        "name": "Metrics - HealthCheck"
+    },
+    {
+        "id": "hudson.model.Item.Create",
+        "name": "Job - Create"
+    },
+    {
+        "id": "hudson.model.Item.Delete",
+        "name": "Job - Delete"
+    },
+    {
+        "id": "hudson.model.Item.Configure",
+        "name": "Job - Configure"
+    },
+    {
+        "id": "hudson.model.Item.Read",
+        "name": "Job - Read"
+    },
+    {
+        "id": "hudson.model.Item.Discover",
+        "name": "Job - Discover"
+    },
+    {
+        "id": "hudson.model.Item.ExtendedRead",
+        "name": "Job - ExtendedRead"
+    },
+    {
+        "id": "hudson.model.Item.Build",
+        "name": "Job - Build"
+    },
+    {
+        "id": "hudson.model.Item.Workspace",
+        "name": "Job - Workspace"
+    },
+    {
+        "id": "hudson.model.Item.WipeOut",
+        "name": "Job - WipeOut"
+    },
+    {
+        "id": "hudson.model.Item.Cancel",
+        "name": "Job - Cancel"
+    },
+    {
+        "id": "hudson.scm.SCM.Tag",
+        "name": "SCM - Tag"
+    },
+    {
+        "id": "hudson.model.Run.Delete",
+        "name": "Run - Delete"
+    },
+    {
+        "id": "hudson.model.Run.Update",
+        "name": "Run - Update"
+    },
+    {
+        "id": "hudson.model.Run.Artifacts",
+        "name": "Run - Artifacts"
+    },
+    {
+        "id": "com.cloudbees.plugins.credentials.CredentialsProvider.UseOwn",
+        "name": "Credentials - UseOwn"
+    },
+    {
+        "id": "com.cloudbees.plugins.credentials.CredentialsProvider.UseItem",
+        "name": "Credentials - UseItem"
+    },
+    {
+        "id": "com.cloudbees.plugins.credentials.CredentialsProvider.Create",
+        "name": "Credentials - Create"
+    },
+    {
+        "id": "com.cloudbees.plugins.credentials.CredentialsProvider.Update",
+        "name": "Credentials - Update"
+    },
+    {
+        "id": "com.cloudbees.plugins.credentials.CredentialsProvider.View",
+        "name": "Credentials - View"
+    },
+    {
+        "id": "com.cloudbees.plugins.credentials.CredentialsProvider.Delete",
+        "name": "Credentials - Delete"
+    },
+    {
+        "id": "com.cloudbees.plugins.credentials.CredentialsProvider.ManageDomains",
+        "name": "Credentials - ManageDomains"
+    },
+    {
+        "id": "hudson.model.Item.Move",
+        "name": "Job - Move"
+    },
+    {
+        "id": "hudson.model.Run.Replay",
+        "name": "Run - Replay"
     }
 ]
